@@ -1,0 +1,17 @@
+{
+  "name": "Tabù",
+  "short_name": "Tabù",
+  "description": "Il gioco di parole a squadre: fai indovinare la parola senza dire quelle vietate.",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0d3324",
+  "theme_color": "#174a36",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
