@@ -1,5 +1,5 @@
 /* Tabù: funziona anche offline. Prima la rete (così le modifiche arrivano subito), poi la copia salvata. */
-const CACHE = 'tabu-v1';
+const CACHE = 'tabu-v2';
 const CORE = ['./', 'index.html', 'style.css', 'app.js', 'cards.js', 'anybody.woff2', 'peerjs.min.js',
   'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'apple-touch-icon.png'];
 
