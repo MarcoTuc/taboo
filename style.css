@@ -223,9 +223,6 @@ details.custom .hint { margin-bottom: 8px; }
   font-weight: 650;
   font-stretch: 94%;
   line-height: 1.15;
-  text-decoration: line-through;
-  text-decoration-color: var(--red);
-  text-decoration-thickness: 0.12em;
 }
 .card-taboo li:last-child { border-bottom: 0; }
 .swipeable { touch-action: pan-y; user-select: none; -webkit-user-select: none; }
